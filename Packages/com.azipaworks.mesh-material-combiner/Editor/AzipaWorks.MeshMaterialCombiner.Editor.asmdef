@@ -1,0 +1,19 @@
+{
+  "name": "AzipaWorks.MeshMaterialCombiner.Editor",
+  "references": [
+    "AzipaWorks.MeshMaterialCombiner.Runtime",
+    "VRC.SDK3A",
+    "Unity.Collections"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

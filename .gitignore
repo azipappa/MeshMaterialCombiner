@@ -1,0 +1,20 @@
+# Ignore everything by default. This repository publishes only
+# the MeshMaterialCombiner VPM package.
+/*
+
+# Keep this ignore policy in the repository.
+!/.gitignore
+!/CHANGELOG.md
+!/LICENSE.txt
+!/README.md
+!/Docs/
+!/Docs/**
+!/.github/
+!/.github/workflows/
+!/.github/workflows/release.yml
+
+# Keep only the VPM package.
+!/Packages/
+/Packages/*
+!/Packages/com.azipaworks.mesh-material-combiner/
+!/Packages/com.azipaworks.mesh-material-combiner/**
